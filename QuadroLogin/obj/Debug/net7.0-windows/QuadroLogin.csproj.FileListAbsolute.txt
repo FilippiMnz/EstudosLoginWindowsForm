@@ -1,0 +1,17 @@
+C:\Users\Jarvis\source\repos\QuadroLogin\QuadroLogin\bin\Debug\net7.0-windows\QuadroLogin.exe
+C:\Users\Jarvis\source\repos\QuadroLogin\QuadroLogin\bin\Debug\net7.0-windows\QuadroLogin.deps.json
+C:\Users\Jarvis\source\repos\QuadroLogin\QuadroLogin\bin\Debug\net7.0-windows\QuadroLogin.runtimeconfig.json
+C:\Users\Jarvis\source\repos\QuadroLogin\QuadroLogin\bin\Debug\net7.0-windows\QuadroLogin.dll
+C:\Users\Jarvis\source\repos\QuadroLogin\QuadroLogin\bin\Debug\net7.0-windows\QuadroLogin.pdb
+C:\Users\Jarvis\source\repos\QuadroLogin\QuadroLogin\obj\Debug\net7.0-windows\QuadroLogin.csproj.AssemblyReference.cache
+C:\Users\Jarvis\source\repos\QuadroLogin\QuadroLogin\obj\Debug\net7.0-windows\QuadroLogin.Form1.resources
+C:\Users\Jarvis\source\repos\QuadroLogin\QuadroLogin\obj\Debug\net7.0-windows\QuadroLogin.csproj.GenerateResource.cache
+C:\Users\Jarvis\source\repos\QuadroLogin\QuadroLogin\obj\Debug\net7.0-windows\QuadroLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarvis\source\repos\QuadroLogin\QuadroLogin\obj\Debug\net7.0-windows\QuadroLogin.AssemblyInfoInputs.cache
+C:\Users\Jarvis\source\repos\QuadroLogin\QuadroLogin\obj\Debug\net7.0-windows\QuadroLogin.AssemblyInfo.cs
+C:\Users\Jarvis\source\repos\QuadroLogin\QuadroLogin\obj\Debug\net7.0-windows\QuadroLogin.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\source\repos\QuadroLogin\QuadroLogin\obj\Debug\net7.0-windows\QuadroLogin.dll
+C:\Users\Jarvis\source\repos\QuadroLogin\QuadroLogin\obj\Debug\net7.0-windows\refint\QuadroLogin.dll
+C:\Users\Jarvis\source\repos\QuadroLogin\QuadroLogin\obj\Debug\net7.0-windows\QuadroLogin.pdb
+C:\Users\Jarvis\source\repos\QuadroLogin\QuadroLogin\obj\Debug\net7.0-windows\QuadroLogin.genruntimeconfig.cache
+C:\Users\Jarvis\source\repos\QuadroLogin\QuadroLogin\obj\Debug\net7.0-windows\ref\QuadroLogin.dll
